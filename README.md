@@ -73,8 +73,8 @@ Finished: FAILURE
 
 Ejemplo de la config de la tarea
 
-![Config Gitlab Checkout](http://url/to/img.png)
+![Config Gitlab Checkout](https://github.com/juantimonescalona/documentacion-jenkins/raw/master/images/SourceGitlab.png)
 
-![Config SonarScanenr](http://url/to/img.png)
+![Config SonarScanenr](https://github.com/juantimonescalona/documentacion-jenkins/raw/master/images/BuildSonar.png)
 
 
